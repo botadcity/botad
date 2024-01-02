@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{background-color: rgb(1, 32, 8);
+    text-align: center;}
+
+.heding{
+    text-align: center;
+    color: rgb(238, 241, 241);
+    margin-top: 15px;
+    font-size: 30px;
+}
